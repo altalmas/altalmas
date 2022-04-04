@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @altalmas.
-- 👀 I’m interested in Robotics/Embedded Systems/Software and Hardware Development.
-- 🌱 I’m currently learning all the above!
-- 💞️ I’m looking to collaborate on all the above!
+- 👀 I’m interested in The Software and Hardware Development of UAVs.
 - 📫 Write me an E-mail to reach me!
 
 <!---
